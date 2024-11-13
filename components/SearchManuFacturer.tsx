@@ -8,7 +8,7 @@ import { SearchManufacturerProps } from '@/Types'
 
 
 import CarLogo from "../public/assets/car-logo.svg";
-import { relative } from 'path';
+// import { relative } from 'path';
 
 
 const SearchManuFacturer = ({ selected, setSelected }: SearchManufacturerProps) => {
